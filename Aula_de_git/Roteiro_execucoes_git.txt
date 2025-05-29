@@ -1,0 +1,20 @@
+slide 3: 
+
+git checkout main
+echo texto > teste.txt 
+git stash 
+git checkout -b "aula3005"
+ren teste.txt test.txt
+git add . 
+git commit -m "teste file created" 
+git checkout main
+git stash pop 
+ren teste.txt test.txt 
+git add . 
+git commit -m "teste rename to test"
+git merge aula3005
+git checkout aula3005
+git rebase merge 
+del test.txt
+git add . 
+git commit -m "teste file deleted"
