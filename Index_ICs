@@ -10,3 +10,9 @@
   ```bash  
   git tag -a v1.2.0 -m "Release: Correção de bug crítico (Issue #123)"  
   git push origin --tags  
+  
+## Controle de Mudanças via Git  
+- **Marcação de Versões**:  
+  ```bash  
+  git tag -a v1.3.0 -m "Release: Correção de bug crítico (Issue #123)"  
+  git push origin --tags  
