@@ -15,4 +15,4 @@
 - **Marcação de Versões**:  
   ```bash  
   git tag -a v1.3.0 -m "Release: Correção de bug crítico (Issue #123)"  
-  git push origin --tags  
+  git push origin 
