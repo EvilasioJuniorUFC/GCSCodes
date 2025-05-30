@@ -1,0 +1,70 @@
+[33m5cf3105[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33mec570fb[m HEAD@{1}: commit: create teste3.txt
+[33m5cf3105[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: merge aula3005: Merge made by the 'ort' strategy.
+[33m53e2445[m HEAD@{3}: checkout: moving from main to main
+[33m53e2445[m HEAD@{4}: checkout: moving from aula3005 to main
+[33mde5aaac[m[33m ([m[1;32maula3005[m[33m)[m HEAD@{5}: commit: create tese2.txt
+[33m320c02c[m HEAD@{6}: checkout: moving from main to aula3005
+[33m53e2445[m HEAD@{7}: checkout: moving from aula3005 to main
+[33m320c02c[m HEAD@{8}: checkout: moving from aula3005 to aula3005
+[33m320c02c[m HEAD@{9}: checkout: moving from main to aula3005
+[33m53e2445[m HEAD@{10}: checkout: moving from list to main
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{11}: checkout: moving from aula3005 to list
+[33m320c02c[m HEAD@{12}: checkout: moving from main to aula3005
+[33m53e2445[m HEAD@{13}: rebase (finish): returning to refs/heads/main
+[33m53e2445[m HEAD@{14}: rebase (pick): create file name: teste.txt
+[33m320c02c[m HEAD@{15}: rebase (start): checkout aula3005
+[33m48d4fea[m HEAD@{16}: rebase (abort): returning to refs/heads/main
+[33m48d4fea[m HEAD@{17}: rebase (abort): returning to refs/heads/main
+[33m2764b91[m HEAD@{18}: commit: fix test.txt
+[33m48d4fea[m HEAD@{19}: checkout: moving from aula3005 to main
+[33m320c02c[m HEAD@{20}: commit: fix test.txt
+[33ma7452ab[m HEAD@{21}: checkout: moving from aula3005 to aula3005
+[33ma7452ab[m HEAD@{22}: checkout: moving from 65786c49ab5e184ac57f5f2482048531c8dfd142 to aula3005
+[33m65786c4[m HEAD@{23}: commit: merge fix
+[33ma7452ab[m HEAD@{24}: rebase (start): checkout aula3005
+[33m48d4fea[m HEAD@{25}: commit (merge): merge fix
+[33m190448d[m HEAD@{26}: commit: create file name: teste.txt
+[33mdf9dc54[m HEAD@{27}: checkout: moving from aula3005 to main
+[33ma7452ab[m HEAD@{28}: commit: change file name: teste.txt to test.txt
+[33mdf9dc54[m HEAD@{29}: checkout: moving from main to aula3005
+[33mdf9dc54[m HEAD@{30}: reset: moving to HEAD
+[33mdf9dc54[m HEAD@{31}: reset: moving to HEAD
+[33mdf9dc54[m HEAD@{32}: reset: moving to HEAD
+[33mdf9dc54[m HEAD@{33}: checkout: moving from aula3005 to main
+[33mdf9dc54[m HEAD@{34}: checkout: moving from main to aula3005
+[33mdf9dc54[m HEAD@{35}: reset: moving to HEAD
+[33mdf9dc54[m HEAD@{36}: checkout: moving from aula3005 to main
+[33mdf9dc54[m HEAD@{37}: checkout: moving from main to aula3005
+[33mdf9dc54[m HEAD@{38}: checkout: moving from main to main
+[33mdf9dc54[m HEAD@{39}: checkout: moving from main to main
+[33mdf9dc54[m HEAD@{40}: checkout: moving from main to main
+[33mdf9dc54[m HEAD@{41}: checkout: moving from aula3005 to main
+[33me8b1c76[m HEAD@{42}: checkout: moving from main to aula3005
+[33mdf9dc54[m HEAD@{43}: checkout: moving from main to main
+[33mdf9dc54[m HEAD@{44}: checkout: moving from main to main
+[33mdf9dc54[m HEAD@{45}: checkout: moving from main to main
+[33mdf9dc54[m HEAD@{46}: checkout: moving from aula3005 to main
+[33me8b1c76[m HEAD@{47}: commit: teste rename to test
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{48}: checkout: moving from main to aula3005
+[33mdf9dc54[m HEAD@{49}: commit: teste rename to test
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{50}: checkout: moving from aula3005 to main
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{51}: checkout: moving from main to aula3005
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{52}: checkout: moving from main to main
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{53}: checkout: moving from main to main
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{54}: checkout: moving from main to aula3005
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{55}: checkout: moving from aula3005 to main
+[33m4f5bc03[m HEAD@{56}: checkout: moving from aula3005 to aula3005
+[33m4f5bc03[m HEAD@{57}: commit: teste rename to test
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{58}: checkout: moving from main to aula3005
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{59}: checkout: moving from main to main
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{60}: checkout: moving from aula2905 to main
+[33m1468d33[m[33m ([m[1;31morigin/aula2905[m[33m, [m[1;32maula2905[m[33m)[m HEAD@{61}: checkout: moving from 354e62074277d256bc9f1e2aa065846d4247eea7 to aula2905
+[33m354e620[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m, [m[1;31morigin/MinhaNovaBrach[m[33m, [m[1;32mstatus[m[33m)[m HEAD@{62}: checkout: moving from 6564db6a9acf0b38bd600dacd23a09326e1658bc to v1.0.0
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{63}: checkout: moving from list to v1.1.0
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{64}: checkout: moving from aula2905 to list
+[33m1468d33[m[33m ([m[1;31morigin/aula2905[m[33m, [m[1;32maula2905[m[33m)[m HEAD@{65}: commit: test
+[33m5395ad2[m HEAD@{66}: commit: ~
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{67}: checkout: moving from main to aula2905
+[33m6564db6[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mlist[m[33m)[m HEAD@{68}: commit: versao 1.3
+[33m354e620[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m, [m[1;31morigin/MinhaNovaBrach[m[33m, [m[1;32mstatus[m[33m)[m HEAD@{69}: clone: from https://github.com/EvilasioJuniorUFC/GCSCodes.git
